@@ -1,6 +1,6 @@
 {
-    "name": "@sagemodeninja/peson-picture-component",
-    "version": "1.0.0",
+    "name": "@sagemodeninja/person-picture-component",
+    "version": "1.0.1",
     "description": "Web component implementation of Windows 11's Command Bar.",
     "main": "dist/person-picture-component.js",
     "types": "src/@types/person-picture-component.d.ts",
